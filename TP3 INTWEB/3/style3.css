@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header,
+nav,
+main,
+footer {
+  background-color: #f4f4f4;
+}
+
+.dark-mode {
+  background-color: #181818;
+  color: #ffff;
+}
+
+.dark-mode header,
+.dark-mode footer,
+.dark-mode main,
+.dark-mode nav {
+  background-color: #333333;
+  border-color: #444444;
+}
